@@ -115,7 +115,6 @@ html {
 }
 
 /* Sidebar Menu */
-
 .menu .image {margin-top: 30px;}
 
 .menu .image img {
@@ -334,7 +333,6 @@ button:hover {
 }
 
 /* Left & Right Post */
-
 .right-image-post {
     margin-top: 60px;
     padding-top: 60px;
@@ -373,7 +371,6 @@ button:hover {
     padding: 25px;
     background-color: rgba(250, 250, 250, 0.1);
     transition: all 0.9s;
-    
 }
 
 .service-item h4 {
@@ -440,7 +437,6 @@ button:hover {
 }
 
 /* My Work */
-
 section.my-work .section-heading {
     text-align: center;
     padding: 80px 45px 50px 45px;
