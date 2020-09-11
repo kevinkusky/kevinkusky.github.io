@@ -42,7 +42,7 @@
   ## Recent Github Activity
   ## Github Stats
 
-  <img align="left" theme='cobalt' alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinkusky&show_icons=true&hide_border=true" />
+  <img align="left" theme='cobalt' alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinkusky&show_icons=true&theme=gruvbox&hide_border=true&hide_rank=true&count_private=true" />
 
 
 <!-- [website]: https://codeSTACKr.com -->
