@@ -12,8 +12,8 @@ body { font-family: 'Lato', sans-serif;}
     -o-background-size: cover;
     background-size: cover;
     width: 100%;
-    opacity: .89;
-    background-color: rgba(0, 0, 0, 10);
+    opacity: 0.88;
+    background-color: rgb(0, 0, 0);
 }
 
 /* Basic */
@@ -338,7 +338,7 @@ button:hover {
     justify-content: space-between;
     margin-bottom: 10px;
     padding: 25px;
-    background-color: rgba(250, 250, 250, 0.1);
+    background-color: rgba(0, 0, 0, 0.316);
     transition: all 0.9s;
 }
 
