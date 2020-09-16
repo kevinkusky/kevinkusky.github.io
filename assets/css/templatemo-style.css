@@ -333,15 +333,34 @@ button:hover {
 }
 
 .service-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     margin-bottom: 10px;
     padding: 25px;
     background-color: rgba(250, 250, 250, 0.1);
     transition: all 0.9s;
 }
 
-.service-item h4 { transition: all 0.9s; }
+.service-item .devicon, .service-item .iconify { 
+    flex: 0.2 !important;
+    font-size: 40px !important;
+    transition: all 1.1s;
+}
 
-.service-item p { transition: all 0.9s; }
+.service-item .node {
+    font-size: 80px !important;
+    margin: -20px 0;
+}
+
+.service-item .npm {
+    font-size: 52px !important;
+    margin: -15px 0;
+}
+
+.service-item h4, .service-item p { 
+    transition: all 0.9s; 
+}
 
 .service-item:hover {
     background-color: rgba(250, 250, 250, 1);
@@ -349,6 +368,8 @@ button:hover {
 }
 
 .service-item:hover h4 { color: #1e1e1e; }
+
+.service-item:hover .devicon, .service-item:hover .iconify { color: #a43f49 !important; }
 
 .service-item:hover p { color: #4a4a4a; }
 
