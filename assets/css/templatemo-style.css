@@ -581,6 +581,12 @@ figure.snip1321:hover:after, figure.snip1321.hover:after {
   opacity: 0.9;
 }
 
+.portfolio-img {
+    height: 308px;
+    width: 445px;
+    object-fit: cover;
+}
+
 /* Contact Me */
 section.contact-me { border-bottom: none; }
 
@@ -620,6 +626,40 @@ section.contact-me { border-bottom: none; }
     outline: none;
     box-shadow: none;
 }
+
+.contact-i {
+    font-size: 28px !important;
+    margin-right: 30px;
+    justify-content: center;
+}
+
+.contact-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact-det {
+    flex: 0.8
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 49px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.57);
+    margin-top: 5px;
+    margin-bottom: -5px;
+}
+
+.contact-item:hover { background-color:  rgba(250, 250, 250, 1);}
+
+.contact-item:hover .contact-i { color:  #a43f49;}
+
+.contact-item:hover .contact-det { color: #1e1e1e;}
 
 #contact { text-align: center; }
 
