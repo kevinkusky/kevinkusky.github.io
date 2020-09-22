@@ -2,20 +2,12 @@
 
 ## I'm a Software Engineer excited to broaden and deepen my skillbase and effectiveness as a professional
 
--  I’m a 2020 graduate of app/Academy
--  I spent my undergrad studying Math at Adelphi University
+-  I’m a 2020 graduate of App Academy
+-  Bachelor of Science in Mathematics from Adelphi University
 -  Currently, I am working on several projects, studying, and learning Python
 -  2020 Goal: Start my career and land a job as a software developer
 -  I play guitar and bass as well as maintain a movement practice
-
-<!-- ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
-
-### Connect with me:
-
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+- Please view my [<span>portfolio site</span>][website] as well as the projects I have been working on 
 
 <br />
 
@@ -40,10 +32,10 @@
 
 
   ## Recent Github Activity
-  ## Github Stats
+
 
   <img align="left" theme='cobalt' alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevinkusky&show_icons=true&theme=gruvbox&hide_border=true&hide_rank=true&count_private=true" />
 
 
-<!-- [website]: https://codeSTACKr.com -->
+[website]: https://kevinkusky.github.io/
 [linkedin]: https://www.linkedin.com/in/kevinkusky/
