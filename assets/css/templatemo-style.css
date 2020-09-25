@@ -607,10 +607,10 @@ figure.snip1321:hover:after, figure.snip1321.hover:after {
 }
 
 .portfolio-img {
-    height: 308px;
-    width: 440px;
+    height: 330px;
+    width: 490px;
     object-fit: cover;
-    padding-right: 6px;
+    margin: 7px 2px;
 }
 
 /* Contact Me */
