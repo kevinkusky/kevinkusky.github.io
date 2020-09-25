@@ -120,11 +120,11 @@ html {
 .menu .image img {
     width: 160px;
     height: 180px;
-    border-radius: 45%;
-    text-align: center;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
-.menu .author-content { margin: 30px 0px 35px 0px; }
+.menu .author-content { margin: 20px 0px 35px 0px; }
 
 .menu .author-content h4 { margin-bottom: 0px; }
 
@@ -134,7 +134,7 @@ html {
     color: #fff;
 }
 
-.menu .social-network { margin-top: 20px; }
+.menu .social-network { margin-top: 15px; margin-bottom: -5px}
 
 .menu .social-network ul li { margin: 0 3px; }
 
@@ -608,8 +608,9 @@ figure.snip1321:hover:after, figure.snip1321.hover:after {
 
 .portfolio-img {
     height: 308px;
-    width: 445px;
+    width: 440px;
     object-fit: cover;
+    padding-right: 6px;
 }
 
 /* Contact Me */
