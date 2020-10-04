@@ -191,7 +191,7 @@ html {
   left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #3c3c39;
+  background-color: #635d69;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
@@ -206,6 +206,8 @@ html {
   width: 20%;
   will-change: transform;
   z-index: 9999 !important;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
 }
 
 .menu-toggle {
