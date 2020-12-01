@@ -474,8 +474,10 @@ section.my-work .section-heading {
 }
 
 .isotope-toolbar input[type="radio"]:checked + span {
-    color: rgba(56, 89, 59, 0.734);
-    border-bottom: 2px solid rgba(56, 89, 59, 0.734);
+    color: rgba(6, 123, 96, 0.867);
+    border-bottom: 3px solid whitesmoke;
+    font-weight: 600;
+    font-size: 17px;
 }
 
 .isotope-box {
@@ -562,6 +564,7 @@ figure.snip1321 span {
     font-style: italic;
     display: block;
     color: #7a7a7a;
+    width: 75%
 }
 
 figure.snip1321 i {
@@ -628,7 +631,7 @@ figure.snip1321:hover figcaption, figure.snip1321.hover figcaption {
   flex-direction: column;
   align-items: center;
   width: 100%;
-  margin-left: -50px;
+  margin-left: -5%;
 }
 
 figure.snip1321:hover:after, figure.snip1321.hover:after {
