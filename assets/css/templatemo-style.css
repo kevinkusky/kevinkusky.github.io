@@ -223,6 +223,10 @@ html {
   top: 25px;
 }
 
+.add-shadow {
+    text-shadow: #272323 2px 2px 3px;
+}
+
 #menu-toggle {
     z-index: 999;
     cursor: pointer;
@@ -469,15 +473,17 @@ section.my-work .section-heading {
     font-size: 15px;
     font-weight: 700;
     border-bottom: 2px solid transparent;
-    transform: ease-in-out 0.5s;
+    transform: ease-in-out 0.7s;
     cursor: pointer;
 }
 
 .isotope-toolbar input[type="radio"]:checked + span {
-    color: rgba(6, 123, 96, 0.867);
+    color: rgb(12, 170, 26);
     border-bottom: 3px solid whitesmoke;
     font-weight: 600;
     font-size: 17px;
+    letter-spacing: 0.08em;
+    text-shadow: rgb(80, 1, 1) 2.5px 2.5px 2.7px;
 }
 
 .isotope-box {
@@ -536,8 +542,6 @@ figure.snip1321:hover .portfolio-img {
     height: 342px;
     width: 502px;
 }
-
-
 
 figure.snip1321 * {
   -webkit-box-sizing: padding-box;
