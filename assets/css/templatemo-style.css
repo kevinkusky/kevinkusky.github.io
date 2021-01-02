@@ -180,7 +180,7 @@ html {
     display: table;
 }
 
-.menu:after {clear: both;}
+.menu:after { clear: both; }
 
 .menu a {
     text-decoration: none;
@@ -388,9 +388,7 @@ button:hover {
     margin-right: 13px !important;
 }
 
-.iconify {
-    padding-right: 15px;
-}
+.iconify { padding-right: 15px; }
 
 .service-item .node {
     font-size: 80px !important;
@@ -530,9 +528,7 @@ section.my-work .section-heading {
     border-radius: 5px;
 }
 
-.lazyload {
-    background: #f7f7f7;
-}
+.lazyload { background: #f7f7f7; }
 
 .lazyloading {
     background: #f7f7f7 url(//afarkas.github.io/lazysizes/assets/imgs/loader.gif) no-repeat center;
@@ -570,7 +566,7 @@ figure.snip1321 figcaption {
 }
 
 figure.snip1321 h4 {
-    margin-top: 15px;
+  margin-top: 15px;
   margin-bottom: 5px;
   color: #232323;
 }
@@ -716,9 +712,7 @@ section.contact-me { border-bottom: none; }
     align-items: center;
 }
 
-.contact-det {
-    flex: 0.8
-}
+.contact-det { flex: 0.8; }
 
 .contact-item {
     display: flex;
@@ -735,12 +729,12 @@ section.contact-me { border-bottom: none; }
 
 .contact-item:hover .contact-i { color:  rgba(56, 89, 59, 0.734);}
 
-.contact-item:hover .contact-det { color: #1e1e1e;}
+.contact-item:hover .contact-det { color: #1e1e1e; }
 
 #contact { text-align: center; }
 
 @media screen and (max-width: 1680px) {
-    .menu {left: 5%;}
+    .menu { left: 5%; }
 
     .section {
         color: #fff;
@@ -757,9 +751,7 @@ section.contact-me { border-bottom: none; }
         line-height: 36px;
     }
 
-    .menu .social-network ul li {
-        margin: 0;
-    }
+    .menu .social-network ul li { margin: 0; }
 
     .menu .image {
         margin-top: 50px;
@@ -798,8 +790,7 @@ section.contact-me { border-bottom: none; }
 #menu-toggle, #menu-close { display: none; }  
 
 @media screen and (max-width: 845px) {        
-    #menu-toggle,
-    #menu-close { display: inline-block; }    
+    #menu-toggle, #menu-close { display: inline-block; }    
 
     .menu {        
         width: 320px;
@@ -833,20 +824,24 @@ section.contact-me { border-bottom: none; }
     }
 
     .responsive-nav { display: inline-block; }
+
     .section {
         width: 94%;
         right: 3%;
         left: 3%;
     }
+
     .isotope-item {
         width: 94%;
         margin: 3%;
     }
+
     .left-image-post img { margin-bottom: 30px; }
     .right-image-post img { margin-top: 30px; }
     .isotope-item {
         border-bottom: none;
         text-align: center;
     }
+
     .isotope-toolbar { margin-bottom: 20px; }
 }
