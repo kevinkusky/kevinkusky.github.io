@@ -2,11 +2,11 @@
 
 ## I'm a Software Engineer excited to broaden and deepen my skillbase and effectiveness as a professional
 
--  I’m a 2020 graduate of App Academy
--  Bachelor of Science in Mathematics from Adelphi University
--  Currently, I am working on several projects, studying, and learning Python
--  2020 Goal: Start my career and land a job as a software developer
--  I play guitar and bass as well as maintain a movement practice
+-  I am a 2020 graduate of App Academy
+-  As well as a 2012 graduate of Adelphi University, Bachelor of Science in Mathematics
+-  Currently, I work remotely as a Software Developer I at Kalkomey Enterprises
+-  2022 Goal: Continuing to grow and learn while making more connections in this field
+-  Outside of work, I play guitar and bass as well as maintain a movement practice
 - Please view my [<span>portfolio site</span>][website] as well as the projects I have been working on 
 
 <br />
