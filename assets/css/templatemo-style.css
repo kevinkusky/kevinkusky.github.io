@@ -712,7 +712,10 @@ section.contact-me { border-bottom: none; }
     align-items: center;
 }
 
-.contact-det { flex: 0.8; }
+.contact-det { 
+    flex: 0.8;
+    margin-top: 0 !important
+}
 
 .contact-item {
     display: flex;
